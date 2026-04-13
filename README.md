@@ -1,1 +1,1 @@
-Assignment Embedded Systems
+A program to read data from a DHT22 sensor and show them with a matrix display. Everything is compatible and tested for raspberry pi 3B+, the code has been written in bare metal for the specific board. 
