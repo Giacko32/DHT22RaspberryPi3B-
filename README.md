@@ -1,1 +1,1 @@
-A program to read data from a DHT22 sensor and show them with a matrix display. Everything is compatible and tested for raspberry pi 3B+, the code has been written in bare metal for the specific board. 
+A program to read temperature and humidity values from a DHT22 sensor and show them using a matrix display. Everything is compatible and tested for raspberry pi 3B+, the code has been written in bare metal for the specific board. An example video is in the repo.
